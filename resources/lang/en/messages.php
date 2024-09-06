@@ -11,7 +11,7 @@ return [
     |
     */
 
-    'Log in' => 'Log in',
+    'Log in' => 'Log on',
     'Register' => 'Register',
 
     'Dashboard' => 'Dashboard',
